@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1095270230356",
+    "firebase_url": "https://chat-app-9005e.firebaseio.com",
+    "project_id": "chat-app-9005e",
+    "storage_bucket": "chat-app-9005e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095270230356:android:e83b1f497b6fc534",
+        "android_client_info": {
+          "package_name": "com.example.filip.internalchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095270230356-i6flssod1c49hf5hfi40d3f8c8nvn4oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvd55YCatFDKpYS4bJ0FqU5QIEYZJl6Ks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
